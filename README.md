@@ -1,4 +1,4 @@
-# finops
+# FinOps
 FinOps Concepts
 
 O que o FinOps permite fazer
